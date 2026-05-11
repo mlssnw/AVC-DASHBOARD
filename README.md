@@ -21,10 +21,11 @@ O painel transforma um dataset bruto de casos de AVC em **insights visuais acion
 ## Screenshots
 
 ### Visão geral — Brasil completo (sem filtros)
-![Dashboard geral](screenshots/dashboard_geral.png)
+![Dashboard geral](<img width="909" height="501" alt="dashboard total" src="https://github.com/user-attachments/assets/173328c6-e1a8-4aae-9a30-2faec608f0fa" />)
 
 ### Drill-down por estado — filtro UF = MG
-![Filtro MG](screenshots/filtro_mg.png)
+![Filtro MG](<img width="906" height="497" alt="dashboard mg" src="https://github.com/user-attachments/assets/89d0ad77-ac43-44cb-9015-0348473a9fa9" />)
+
 *Ao clicar em Minas Gerais no mapa, todos os visuais se atualizam simultaneamente: o Top 5 muda para cidades mineiras, o gráfico de área reflete apenas casos de MG e o KPI passa a exibir o total filtrado para o estado — o total geral sem filtros é 103 Mil casos.*
 
 ---
