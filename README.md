@@ -1,6 +1,6 @@
 # AVC-DASHBOARD
-Power BI dashboard com 103k+ casos de AVC no Brasil — mapa coroplético, 5 slicers com cross-filtering bidirecional, ranking dinâmico de cidades e distribuição demográfica por raça/cor, sexo e faixa etária. Power Query · DAX · Modelagem dimensional.
-# Dashboard AVC — Análise Epidemiológica com Power BI
+Power BI dashboard com 103k+ casos de AVC no Brasil mapa coroplético, 5 slicers com cross-filtering bidirecional, ranking dinâmico de cidades e distribuição demográfica por raça/cor, sexo e faixa etária. Power Query · DAX · Modelagem dimensional.
+# Dashboard AVC Análise Epidemiológica com Power BI
 
 > Dashboard interativo para análise de 103.000+ casos de Acidente Vascular Cerebral (AVC) no Brasil, com mapa coroplético por estado, cross-filtering avançado e 5 slicers integrados.
 
@@ -14,7 +14,7 @@ Power BI dashboard com 103k+ casos de AVC no Brasil — mapa coroplético, 5 sli
 
 Dashboard de análise epidemiológica desenvolvido em **Power BI Desktop**, com foco em visualização de dados de saúde pública e boas práticas de BI: cross-filtering bidirecional, hierarquia de filtros e design orientado à tomada de decisão.
 
-O painel transforma um dataset bruto de casos de AVC em **insights visuais acionáveis** sobre perfil demográfico, tipo de acidente, distribuição geográfica e ranking de cidades — com tema escuro e layout em grid pensado para leitura rápida.
+O painel transforma um dataset bruto de casos de AVC em **insights visuais acionáveis** sobre perfil demográfico, tipo de acidente, distribuição geográfica e ranking de cidades com tema escuro e layout em grid pensado para leitura rápida.
 
 ---
 
@@ -143,7 +143,7 @@ git clone https://github.com/mlssnw/dashboard-avc.git
 ## Aprendizados
 
 - Cross-filtering bidirecional como ferramenta de análise exploratória, não apenas recurso visual
-- A importância do Power Query antes da modelagem — dados mal tipados corrompem qualquer cálculo DAX
+- A importância do Power Query antes da modelagem dados mal tipados corrompem qualquer cálculo DAX
 - Modelagem dimensional aplicada a dados de saúde pública com múltiplas dimensões de corte
 - Responsabilidade ética na apresentação de dados segmentados por raça, sexo e faixa etária
 - Hierarquia visual em dashboards: onde o olho vai primeiro importa tanto quanto os dados
